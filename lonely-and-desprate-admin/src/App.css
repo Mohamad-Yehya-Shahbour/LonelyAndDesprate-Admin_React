@@ -1,0 +1,45 @@
+@import url("./assets/css/signup.css");
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+.app{
+  margin: 30px;
+  padding: 20px;
+  justify-content: center;
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.container{
+  margin: 30px;
+  padding: 20px;
+  justify-content: center;
+  box-shadow: 0 6px 20px 0 rgba(141, 129, 255, 0.349);
+}
+
+.icon{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.text{
+  font-weight: bold;
+  color: #027068;
+  font-size: 40px;
+}
+
+.icon_class>.MuiSvgIcon-root{
+  color: #027068;;
+}
+
+.myMargins-b-10{
+  margin-bottom: 10px !important;
+}
+
+.myMargins-b-15{
+  margin-bottom: 15px !important;
+}
+
+.myMargins-b-20{
+  margin-bottom: 20px !important;
+}
